@@ -32,4 +32,4 @@ são encontrados ou quando o jogador fica sem pontuação.
 3. Ler imputs do teclado e criar as mecânicas do jogo
 4. Criar o mecansimo de pontuação e verificar se o jogo termina corretmente
 
-- Atualizado a última vez em 014/12/2021
+- Atualizado a última vez em 14/12/2021

@@ -9,18 +9,7 @@
 
 ### Repositório de código
 
-1) Link para o repositório do GitHub: https://github.com/@canito-amarelo/Projeto-FP
-
-2) Adicionar, como colaborador com permissão de leitura (*role read*):
-
-- https://github.com/AfonsoSalgadoSousa
-- https://github.com/jlopes60
-- https://github.com/nmacedo
-- https://github.com/rpmcruz
-- https://github.com/eSoares
-- https://github.com/pbv
-- https://github.com/imdcode
-- https://github.com/acoelho-fe-up-pt
+1) Link para o repositório do GitHub: https://github.com/joaoslva/Projeto-FP
 
 ### Descrição
 

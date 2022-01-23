@@ -13,7 +13,7 @@
 
 ### Descrição
 
-*---É um jogo de aventura cujo o objetivo é encontrar e coletar tesouros espalhados pelo mapa. O jogador possui
+É um jogo de aventura cujo o objetivo é encontrar e coletar tesouros espalhados pelo mapa. O jogador possui
 uma determinada pontução, que aumenta à medida que vai apanhando mais tesouros, mas que também diminui se este mbater nos
 vários enimigos que estão pelo mapa ou então se cair de uma plataforma para a outra. O jogo termina quando todos os tesouros
 são encontrados ou quando o jogador fica sem pontuação.

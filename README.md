@@ -19,7 +19,7 @@ vários enimigos que estão pelo mapa ou então se cair de uma plataforma para a
 são encontrados ou quando o jogador fica sem pontuação.
 ### UI
 
-![UI](ui.png)
+![UI](captura.png)
 
 ### Pacotes
 

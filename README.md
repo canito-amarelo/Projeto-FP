@@ -17,7 +17,7 @@
 uma determinada pontução, que aumenta à medida que vai apanhando mais tesouros, mas que também diminui se este mbater nos
 vários enimigos que estão pelo mapa ou então se cair de uma plataforma para a outra. O jogo termina quando todos os tesouros
 são encontrados ou quando o jogador fica sem pontuação.
-### UI
+### Imagem do jogo original
 
 ![UI](captura.png)
 
